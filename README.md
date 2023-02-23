@@ -2,6 +2,7 @@ Hello! 👋 I'm Robbie
 ----------------------------
 
 - 💻 I work as a Software Engineer at `Quantium`, a Data Science and AI company.
+- 🎓 I studied `Advanced Computer Science` and `Econometrics` at Monash University.
 - 🔭 I'm interested in `Reinforcement Learning`, `Neural Networks` and `Functional Programming`.
 - 📖 I like to read and listen to metal ⚡.
 
