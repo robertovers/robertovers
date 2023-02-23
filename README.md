@@ -1,7 +1,7 @@
 Hello! 👋 I'm Robbie
 ----------------------------
 
-- 💻 I work as a software engineer at `Quantium`, a Data Science and AI company.
+- 💻 I work as a Software Engineer at `Quantium`, a Data Science and AI company.
 - 🔭 I'm interested in `Reinforcement Learning`, `Neural Networks` and `Functional Programming`.
 - 📖 I like to read and listen to metal ⚡.
 
