@@ -1,7 +1,7 @@
 Hello! 👋 I'm Robbie
 ----------------------------
 
-- 💻 I study `Computer Science & Commerce (Advanced Computer Science & Econometrics)` at Monash University.
+- 💻 I work as a software engineer at the Data Science and AI `Quantium`.
 - 🔭 I'm interested in `Artificial Intelligence` and `Functional Programming`.
 - 📖 I like to read and listen to metal ⚡.
 
